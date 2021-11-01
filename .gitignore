@@ -1,0 +1,8 @@
+/client
+/server
+/.idea
+
+*.o
+*.dSYM
+.nfs*
+*y.log
